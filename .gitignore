@@ -1,0 +1,7 @@
+.cordova/
+logs/*
+!.gitkeep
+nbproject/
+node_modules/
+tmp
+.DS_Store
